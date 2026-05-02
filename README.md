@@ -12,8 +12,7 @@ The green banner appears on frames where the algorithm detects the Biellmann spi
 
 ## Motivation
 
-Figure skating judging relies entirely on human judges, making scoring subjective and there are many times inconsistencies in judging.
-The long-term goal is to automate the technical panel. They are the officials responsible for identifying and listing every element a skater performs. That process should be consistent and objective. A model must reliably identify which elements a skater is performing in order to this. I focused on the biellman spin for this project.
+Figure skating judging relies entirely on human judges, which makes scoring subjective and often leads to inconsistencies. The long-term goal is to automate the technical panel—the officials responsible for identifying and recording every element a skater performs. This process should be consistent and objective. To achieve this, a model must reliably recognize the elements performed by a skater. In this project, I focused on identifying the Biellmann spin.
 
 
 ---
