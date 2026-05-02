@@ -1,4 +1,4 @@
-# Skate Pose — Biellmann Spin Detection
+# Skate Pose — Spin Detection
 
 Detect a specific figure-skating move (the **Biellmann spin** for example) inside an skating
 video by comparing pose-landmark trajectories of the target clip against a labelled
