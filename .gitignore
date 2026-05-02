@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Large frame dumps
+prediction_data/prediction_frames/
+prediction_data/prediction_frames_pose/
+ground_truth/frames/
+ground_truth/frames_pose/
+
+# Videos
+*.mp4
+
+# MediaPipe model
+pose_landmarker_heavy.task
+
+# Mac junk
+.DS_Store
